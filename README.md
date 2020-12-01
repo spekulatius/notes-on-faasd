@@ -1,5 +1,4 @@
-
-
+# Personal Notes on faasd
 
 ## Articles
 
@@ -10,6 +9,7 @@
 
  - [Hands-on with faasd & Inlets](https://www.youtube.com/watch?v=AFx0Wap3Z8E)
  - [faasd walk-through with cloud-init and Multipass](https://www.youtube.com/watch?v=WX1tZoSXy8E)
+ - [OpenFaaS: keeping serverless simple](https://www.youtube.com/watch?v=jRG2ZAaEG2U)
  - [Meet Derek, the contribution bot for GitHub](https://www.youtube.com/watch?v=ibPwVggXAFI)
 
 
@@ -27,3 +27,5 @@ echo $PASSWORD | faas-cli login --password-stdin
 ```
 
 You can also use a hostname as IP.
+
+
